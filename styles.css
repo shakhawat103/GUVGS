@@ -57,6 +57,12 @@ body {
     height: 180px;
     object-fit: cover;
   }
+
+  .member:hover {
+  background-color: #004d00;
+  color: white;
+}
+
   footer {
     background: #003300;
     color: white;
